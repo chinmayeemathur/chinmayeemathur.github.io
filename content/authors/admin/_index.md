@@ -102,7 +102,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:chinmayeemathur@gmail.com"
-  -icon: phone
+  - icon: phone
     icon_pack: fab
     link: +44 740 746 5477
       header: true
